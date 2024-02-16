@@ -14,6 +14,7 @@ public class PhoneBook {
         phoneBook.put("Koliy", new ArrayList<Integer>(Arrays.asList(6)));
         phoneBook.put("Masha", new ArrayList<Integer>(Arrays.asList(5, 8, 95, 9, 11)));
         phoneBook.put("Oleg", new ArrayList<Integer>(Arrays.asList(58, 100)));
+        phoneBook.put("Olga", new ArrayList<Integer>(Arrays.asList(4569, 500, 9687)));
 
         System.out.println("Для управления используйте сл. команды:");
         System.out.println("+ чтобы добавить контакт/телефон");
